@@ -1,6 +1,6 @@
 # 🏠 월간ZIP
 
-### Samsung Software Academy For Youth 12th - 특화 프로젝트(핀테크)
+### Samsung SW·AI Academy For Youth 12th - 특화 프로젝트(핀테크)
 #### 임대인과 임차인을 위한 월세 및 보증금 관리 웹사이트
 
 > 2025.03.03 ~ 2025.04.11
